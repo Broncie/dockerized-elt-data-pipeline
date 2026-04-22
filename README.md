@@ -6,7 +6,7 @@ This repository contains a fully containerized ETL pipeline built with Docker.
 Data is extracted using Python, orchestrated with Airflow, transformed with dbt inside PostgreSQL, and visualized using Superset.
 
 ## Architecture
-![Project Architecture](ETL.png)
+![Project Architecture](ELT_pipeline_architecture.png)
 
 ## Technology Used
 1. Programming Language - Python
