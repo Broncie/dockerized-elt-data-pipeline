@@ -1,8 +1,8 @@
-# dockerized-etl-data-pipeline
-End-to-end ETL data engineering pipeline using Python, Airflow, dbt, PostgreSQL, Superset, and Docker for containerized, reproducible analytics workflows.
+# dockerized-elt-data-pipeline
+End-to-end ELT data engineering pipeline using Python, Airflow, dbt, PostgreSQL, Superset, and Docker for containerized, reproducible analytics workflows.
 
 ## Introduction
-This repository contains a fully containerized ETL pipeline built with Docker.
+This repository contains a fully containerized ELT pipeline built with Docker.
 Data is extracted using Python, orchestrated with Airflow, transformed with dbt inside PostgreSQL, and visualized using Superset.
 
 ## Architecture
